@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tactical marketing platforms]]></title>
         <description><![CDATA[Tactical marketing platforms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tacticalcontact/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 15:55:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 16:11:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tacticalcontact/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://raumrot.com/wp-content/uploads/2016/01/msp_0704_6646.jpg">]]></description>
+            <link>https://thegrid.ai/tacticalcontact/363bfcc3-5160-4508-bf73-6b4386661459/index.html</link>
+            <guid isPermaLink="false">363bfcc3-5160-4508-bf73-6b4386661459</guid>
+            <pubDate>Thu, 14 Jan 2016 16:11:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pixabay.com/static/uploads/photo/2015/05/20/12/38/chess-775340_960_720.jpg">]]></description>
-            <link>undefined65ea4f5c-5074-4079-a6c2-6eb375aef52d/index.html</link>
+            <link>https://thegrid.ai/tacticalcontact/65ea4f5c-5074-4079-a6c2-6eb375aef52d/index.html</link>
             <guid isPermaLink="false">65ea4f5c-5074-4079-a6c2-6eb375aef52d</guid>
             <pubDate>Thu, 14 Jan 2016 15:55:14 GMT</pubDate>
         </item>

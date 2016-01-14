@@ -1,0 +1,28 @@
+name: Tacticalcontact
+favicon: null
+layout_spectrum: 0.7456277601886541
+typography_spectrum: 0.9367229985073209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9253806329797953
+  lightness: 0.5337215247564018
+  saturation: 0.679909503320232
+  rhythmicContrast: 0.9820294014643878
+purpose: []

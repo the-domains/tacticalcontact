@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tactical marketing platforms]]></title>
+        <description><![CDATA[Tactical marketing platforms]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 15:55:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pixabay.com/static/uploads/photo/2015/05/20/12/38/chess-775340_960_720.jpg">]]></description>
+            <link>undefined65ea4f5c-5074-4079-a6c2-6eb375aef52d/index.html</link>
+            <guid isPermaLink="false">65ea4f5c-5074-4079-a6c2-6eb375aef52d</guid>
+            <pubDate>Thu, 14 Jan 2016 15:55:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
